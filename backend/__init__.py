@@ -1,0 +1,1 @@
+"""TalentSync AI backend package."""

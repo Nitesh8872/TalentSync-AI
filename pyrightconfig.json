@@ -1,0 +1,11 @@
+{
+  "venvPath": "d:/My-project/TalentSync AI",
+  "venv": ".venv",
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "include": ["backend"],
+  "exclude": ["**/__pycache__", ".venv"],
+  "extraPaths": [
+    "d:/My-project/TalentSync AI/.venv/Lib/site-packages"
+  ]
+}
