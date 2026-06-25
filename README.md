@@ -1,4 +1,4 @@
-# TalentSync AI
+# TalentSync AI[In Progress]
 
 TalentSync AI is a two-sided hiring platform that helps candidates understand
 their resumes, discover relevant jobs, and apply with confidence. Recruiters
